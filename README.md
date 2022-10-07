@@ -1,6 +1,7 @@
 ## Hello, I'm Massimo 😄
 
-[![Foo](https://img.shields.io/badge/-massimorondelli-blue?logo=Linkedin)](https://www.linkedin.com/in/massimo-r-403207136/)
+[![Foo](https://img.shields.io/badge/-MassimoRondelli-blue?logo=Linkedin)](https://www.linkedin.com/in/massimo-r-403207136/)
+[![Foo](https://img.shields.io/badge/-MassimoRondelli-blue?logo=Twitter)](https://twitter.com/MassimoRondell3)
 
 ## Working On
 - Recurrent Neural Network with Python

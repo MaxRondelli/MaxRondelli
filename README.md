@@ -11,6 +11,7 @@
 - Formula 1 fans 🏎️
 - Gymnastic 🤸🏻
 - Music addicted 🎧
+- Photographer 📸 
 
 ## My github stats
 

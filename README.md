@@ -8,7 +8,7 @@
 - Data Prediction in Formula 1 and car racing
 
 ## About Me
-- Formula 1 fans 🏎️
+- Formula 1 fan 🏎️
 - Gymnastic 🤸🏻
 - Music addicted 🎧
 - Photographer 📸 

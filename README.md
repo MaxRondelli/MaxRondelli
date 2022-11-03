@@ -4,7 +4,7 @@
 [![Foo](https://img.shields.io/badge/-MassimoRondelli-blue?logo=Twitter)](https://twitter.com/MassimoRondell3)
 
 ## Working On
-- Recurrent Neural Network with Python
+- Recurrent Neural Network (RNNs)
 - Data Prediction in Formula 1 and car racing
 
 ## About Me

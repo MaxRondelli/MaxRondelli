@@ -5,11 +5,10 @@
 
 ## Working On
 - Recurrent Neural Network (RNNs)
-- Data Prediction in Formula 1 and car racing
+- Strategy Prediction in Formula 1 and car racing
 
 ## About Me
 - Formula 1 fan 🏎️
-- Gymnastic 🤸🏻
 - Music addicted 🎧
 - Photographer 📸 
 

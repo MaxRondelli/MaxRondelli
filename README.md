@@ -5,7 +5,7 @@
 
 ## Working On
 - Deep Learning: Recurrent Neural Network (RNNs)
-- Strategy Prediction in Formula 1 and car racing
+- Data Prediction in F1
 
 ## About Me
 - Formula 1 fan 🏎️

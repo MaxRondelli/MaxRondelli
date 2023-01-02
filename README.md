@@ -4,8 +4,8 @@
 [![Foo](https://img.shields.io/badge/-MassimoRondelli-blue?logo=Twitter)](https://twitter.com/MassimoRondell3)
 
 ## Working On
-- Deep Learning: Recurrent Neural Network (RNNs)
-- Data Prediction in F1
+- Deep Learning algorithms for my bachelor thesis.
+- Formula 1 Tyre Strategy prediction using neural networks
 
 ## About Me
 - Formula 1 fan 🏎️

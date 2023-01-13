@@ -10,7 +10,7 @@
 ## About Me
 - Formula 1 fan 🏎️
 - Music addicted 🎧
-- Photographer 📸 
+- Pornographer 📸 
 
 ## My github stats
 

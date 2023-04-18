@@ -4,6 +4,7 @@
 [![Foo](https://img.shields.io/badge/-MassimoRondelli-blue?logo=Twitter)](https://twitter.com/MassimoRondell3)
 
 ## Working On
+- Software Developer at [CINECA](https://www.cineca.it/)
 - Formula 1 Tyre Strategy prediction using neural networks.
 
 ## About Me

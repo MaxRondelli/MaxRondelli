@@ -5,11 +5,11 @@
 
 ## Working On
 - Software Developer at [CINECA](https://www.cineca.it/)
-- Formula 1 Tyre Strategy prediction using neural networks.
+- Learning Quantum Computing!
 
 ## About Me
 - Undergraduate student in Computer Science at University of Bologna.
-- Interested in Software Engineering and Deep Learning.
+- Interested in Software Engineering, Deep Learning and Quantum Computing.
 - Formula 1 fan. 🏎️ 
 - Reader. 📚 
 

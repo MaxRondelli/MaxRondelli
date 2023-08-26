@@ -6,6 +6,7 @@
 ## Working On
 - Software Developer at [CINECA](https://www.cineca.it/)
 - Deep Learning projects
+- Learning C++
 
 ## About Me
 - Undergraduate student in Computer Science at University of Bologna.

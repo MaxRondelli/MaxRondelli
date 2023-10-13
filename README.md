@@ -4,13 +4,11 @@
 [![Foo](https://img.shields.io/badge/-MassimoRondelli-blue?logo=Twitter)](https://twitter.com/MassimoRondell3)
 
 ## Working On
-- Software Developer at [CINECA](https://www.cineca.it/)
-- Deep Learning projects
-- Learning C++
+- Computer Scinece student at the University of Bologna
 
 ## About Me
 - Undergraduate student in Computer Science at University of Bologna.
-- Interested in Software Engineering, Deep Learning and Quantum Computing.
+- Interested in Deep Learning.
 - Formula 1 fan. 🏎️ 
 - Reader. 📚 
 

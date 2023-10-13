@@ -4,7 +4,7 @@
 [![Foo](https://img.shields.io/badge/-MassimoRondelli-blue?logo=Twitter)](https://twitter.com/MassimoRondell3)
 
 ## Working On
-- Computer Scinece student at the University of Bologna
+- Computer Science student at the University of Bologna
 
 ## About Me
 - Undergraduate student in Computer Science at University of Bologna.

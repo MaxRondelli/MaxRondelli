@@ -1,7 +1,4 @@
-## Hello, I'm Massimo 😄
-
-[![Foo](https://img.shields.io/badge/-MassimoRondelli-blue?logo=Linkedin)](https://www.linkedin.com/in/massimo-r-403207136/)
-[![Foo](https://img.shields.io/badge/-MassimoRondelli-blue?logo=Twitter)](https://twitter.com/MassimoRondell3)
+## Hello, I'm Max 😄
 
 ## Working On
 - Computer Science student at the University of Bologna

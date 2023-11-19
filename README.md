@@ -1,5 +1,8 @@
 ## Hello, I'm Max 😄
 
+Sup guys! 🤙
+
+
 ## Working On
 - Computer Science student at the University of Bologna
 

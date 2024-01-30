@@ -13,5 +13,6 @@ Sup! 🤙
 - Climber 🧗🏻& Reader 📚 
 
 ## My github stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxrondelli&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maxrondelli&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxrondelli&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maxrondelli&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maxrondelli&theme=github_dark&utcOffset=8)

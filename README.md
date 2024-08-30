@@ -1,18 +1,13 @@
 ## Hello, I'm Max 😄
+### Working On
+- Computer Science student at the University of Bologna (IT) and Univeristy of Bielefeld (DE) 📚
+- Computer Vision specialist at Ducati Corse MotoGP 🏍️
 
-Sup! 🤙
-
-
-## Working On
-- Computer Science student at the University of Bologna 📚
-
-## About Me
+### About Me
 - Undergraduate student in Computer Science at University of Bologna 🎓
-- Interested in Deep Learning 🧮
-- Basketball 🏀 & Formula 1 fan 🏎️ 
+- Interested in Deep Learning and Computer Vision 🧮 📷
+- Basketball 🏀 & High-tech sports fan 🏎️ 🏍️ ⛵ 
 - Climber 🧗🏻& Reader 📚 
 
-## My github stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maxrondelli&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maxrondelli&theme=github_dark&utcOffset=1)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxrondelli&theme=github_dark)
+### My github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxrondelli&show_icons=true&theme=transparent)
